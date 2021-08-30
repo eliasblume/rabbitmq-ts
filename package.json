@@ -1,0 +1,17 @@
+{
+  "name": "rabbitmq-ts",
+  "version": "1.0.0",
+  "description": "an easy to use rabbitmq lib using amqplib. primarily for myself",
+  "main": "src/index.ts",
+  "repository": "git@github.com:eliasblume/rabbitmq-ts.git",
+  "author": "Elias Blume <mail@elias-blu.me>",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.8.0",
+    "node-uuid": "^1.4.8"
+  },
+  "devDependencies": {
+    "@types/amqplib": "^0.8.2",
+    "@types/node-uuid": "^0.0.29"
+  }
+}
